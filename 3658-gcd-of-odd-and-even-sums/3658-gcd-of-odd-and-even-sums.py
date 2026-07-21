@@ -4,8 +4,11 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        
-        return n
+        sumodd=n*n
+        sumeven=n*(n+1)
+        while sumeven!=0:
+            sumodd,sumeven=sumeven,sumodd%sumeven
+        return sumodd
         
 
         
