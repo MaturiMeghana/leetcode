@@ -4,14 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        maximum=float('-inf')
-        minimum=float('inf')
-        for i in nums:
-            if i>maximum:
-                maximum=i
-            if i<minimum :
-                minimum=i
-        while maximum!=0:
-            minimum,maximum=maximum,minimum%maximum
-        return minimum
-        
+        mini=min(nums)
+        maxi=max(nums)
+        while maxi!=0:
+            mini,maxi=maxi,mini%maxi
+        return mini 
