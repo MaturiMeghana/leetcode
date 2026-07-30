@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/MaturiMeghana/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/MaturiMeghana/leetcode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/MaturiMeghana/leetcode/tree/master/0724-find-pivot-index) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MaturiMeghana/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/MaturiMeghana/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/MaturiMeghana/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
