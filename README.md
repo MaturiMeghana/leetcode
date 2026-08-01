@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MaturiMeghana/leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/MaturiMeghana/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/MaturiMeghana/leetcode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/MaturiMeghana/leetcode/tree/master/0724-find-pivot-index) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MaturiMeghana/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/MaturiMeghana/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/MaturiMeghana/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MaturiMeghana/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MaturiMeghana/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/MaturiMeghana/leetcode/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
