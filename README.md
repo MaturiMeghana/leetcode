@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/MaturiMeghana/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/MaturiMeghana/leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/MaturiMeghana/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/MaturiMeghana/leetcode/tree/master/0268-missing-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/MaturiMeghana/leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/MaturiMeghana/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/MaturiMeghana/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
