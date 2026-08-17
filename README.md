@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MaturiMeghana/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/MaturiMeghana/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/MaturiMeghana/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
