@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MaturiMeghana/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/MaturiMeghana/leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/MaturiMeghana/leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/MaturiMeghana/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MaturiMeghana/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/MaturiMeghana/leetcode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/MaturiMeghana/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MaturiMeghana/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MaturiMeghana/leetcode/tree/master/0268-missing-number) |
 | [2670-find-the-distinct-difference-array](https://github.com/MaturiMeghana/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 ## Two Pointers
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MaturiMeghana/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/MaturiMeghana/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MaturiMeghana/leetcode/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
@@ -106,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/MaturiMeghana/leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/MaturiMeghana/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MaturiMeghana/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MaturiMeghana/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MaturiMeghana/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
