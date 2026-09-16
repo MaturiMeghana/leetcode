@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/MaturiMeghana/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/MaturiMeghana/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MaturiMeghana/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MaturiMeghana/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/MaturiMeghana/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/MaturiMeghana/leetcode/tree/master/0724-find-pivot-index) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MaturiMeghana/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MaturiMeghana/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MaturiMeghana/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MaturiMeghana/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/MaturiMeghana/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 ## Two Pointers
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MaturiMeghana/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/MaturiMeghana/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MaturiMeghana/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/MaturiMeghana/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MaturiMeghana/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MaturiMeghana/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/MaturiMeghana/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MaturiMeghana/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/MaturiMeghana/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MaturiMeghana/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MaturiMeghana/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MaturiMeghana/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MaturiMeghana/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MaturiMeghana/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Number Theory
 |  |
 | ------- |
